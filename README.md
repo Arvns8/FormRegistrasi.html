@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
     <title> FORM Registrasi</title>
     <meta charset="UTF-8">
